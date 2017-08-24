@@ -1,6 +1,9 @@
 /*Custom Style*/
 h1
-{ color: red;
+{ color: #000;
+}
+a{
+  color: #000;
 }
 
 .gray-border
@@ -15,11 +18,15 @@ h1
 img {
 
 }
+.navbar-default .navbar-brand {
+    color: #fff !important;
+}
+
 .navbar-default, .container-fluid
 {
-  background-color:#7BAFD4 !important;
-  border-color: #7BAFD4 !important;
-  fill: #7BAFD4 !important;;
+  background-color:#56A0D3 !important;
+  border-color: #56A0D3 !important;
+  fill: #56A0D3 !important;;
 }
 .navbar-default .navbar-brand
 {
@@ -33,8 +40,10 @@ img {
   }
   .footer {
     text-align: center;
+    padding: 10px 0;
+    background-color: #56A0D3;
+    color: #fff;
   }
 .jumbotron{
-  color: #fff !important;
   background-color: #fff !important;
 }
