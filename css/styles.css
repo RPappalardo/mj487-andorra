@@ -1,0 +1,18 @@
+/*Custom Style*/
+h1
+{ color: red;
+}
+
+.gray-border
+{border: 1px solid gray;}
+
+.sidebar
+{
+  color: #56A0D1;
+  background-color: pink;
+  min-height: 600px;
+}
+img {
+  height: 50%;
+  width: 50%;
+}
