@@ -1,9 +1,6 @@
 /*Custom Style*/
 h1
-{ color: #000;
-}
-a{
-  color: #000;
+{ color: red;
 }
 
 .gray-border
@@ -16,34 +13,6 @@ a{
   min-height: 600px;
 }
 img {
-
-}
-.navbar-default .navbar-brand {
-    color: #fff !important;
-}
-
-.navbar-default, .container-fluid
-{
-  background-color:#56A0D3 !important;
-  border-color: #56A0D3 !important;
-  fill: #56A0D3 !important;;
-}
-.navbar-default .navbar-brand
-{
-  color: #fff;
-}
-.navbar-default, .navbar-nav>li>a
-{
-    color: #fff !important;
-  }.navbar {
-    text-align: center;
-  }
-  .footer {
-    text-align: center;
-    padding: 10px 0;
-    background-color: #56A0D3;
-    color: #fff;
-  }
-.jumbotron{
-  background-color: #fff !important;
+  height: 50%;
+  width: 50%;
 }
