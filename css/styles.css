@@ -1,40 +1,44 @@
 /*Custom Style*/
-h1
-{ color: red;
+
+h1 {
+    color: red;
 }
-
-.gray-border
-{border: 1px solid gray;}
-
-
-
+.gray-border {
+    border: 1px solid gray;
+}
 .navbar-default .navbar-brand {
     color: #fff !important;
 }
-
-.navbar-default, .container-fluid
-{
-  background-color:#56A0D3 !important;
-  border-color: #56A0D3 !important;
-  fill: #56A0D3 !important;;
+.navbar-default,
+.container-fluid {
+    background-color: #56A0D3 !important;
+    border-color: #56A0D3 !important;
+    fill: #56A0D3 !important;
+    ;
 }
-.navbar-default .navbar-brand
-{
-  color:  #56A0D3 !important;
+.navbar-default .navbar-brand {
+    color: #56A0D3 !important;
 }
-.navbar-default, .navbar-nav>li>a
-{
+.navbar-default,
+.navbar-nav>li>a {
     color: #fff !important;
-  }.navbar {
+}
+.navbar {
     text-align: center;
-  }
-  .footer {
+}
+.footer {
     text-align: center;
     padding: 10px 0;
     background-color: #56A0D3;
     color: #fff;
-  }
-.jumbotron{
-  background-color: #fff !important;
-
+}
+.jumbotron {
+    background-color: #fff !important;
+}
+.btn-success {
+    margin-top: 6px;
+}
+#bigandorra{
+    width:100%;
+    height:80%;
 }
